@@ -33,7 +33,7 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat&logo=pytorch)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
-![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
+![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=openjdk)
 ---
 
 ## 📈 Stats, But Not Just the GitHub Kind
