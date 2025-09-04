@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Danny A. Hernandez
 
-<!--
-**danyu1/danyu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BS/MS Computer Science @ University of Chicago**  
+🧠 Interests: ML/AI, Systems, Simulation, Data Infra  
+📬 Email: danielhernandez@uchicago.edu | [📎 Resume (by request)]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I'm Working On
+
+- **Probabilistic ML Research**: Using **Conditional Variational Autoencoders** to model chaotic dynamical systems — accepted at **AGU Fall Meeting 2025**  
+- **Time-Series Forecasting Tool**: Built a full LSTM pipeline to forecast NCAA Track & Field performance using scraped and normalized real-world data  
+- **Simulation Tools**: Interested in modeling physical systems and building interpretable representations for stochastic behavior  
+
+---
+
+## 💡 I Like Building Things That...
+
+- Bridge research & application  
+- Work with real-world messiness  
+- Solve core infra/data/ML pain points  
+- Are simple, scalable, and clean under the hood  
+
+---
+
+## 🧰 Languages & Tools
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-black?style=flat&logo=c)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat&logo=tensorflow)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat&logo=pytorch)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
+
+---
+
+## 📈 Stats, But Not Just the GitHub Kind
+
+- 📜 Published ML research at a national science conference  
+- 🏃‍♂️ Collegiate Track and Field athlete  
+
+---
+
+## 🌱 Currently Exploring
+
+- Distributed systems for ML infra  
+- Simulation modeling and synthetic data generation  
+- Reinforcement learning + control theory  
+- Privacy and interpretability in real-world ML  
+
+---
