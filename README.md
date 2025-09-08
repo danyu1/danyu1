@@ -14,15 +14,6 @@
 
 ---
 
-## 💡 I Like Building Things That...
-
-- Bridge research & application  
-- Work with real-world messiness  
-- Solve core infra/data/ML pain points  
-- Are simple, scalable, and clean under the hood  
-
----
-
 ## 🧰 Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
