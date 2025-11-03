@@ -8,9 +8,9 @@
 
 ## 🛠️ What I'm Working On
 
-- **Probabilistic ML Research**: Using **Conditional Variational Autoencoders** to model chaotic dynamical systems — accepted at **AGU Fall Meeting 2025**  
+- **Probabilistic ML Research**: Using **Resnet-Inspired Conditional Variational Autoencoders** to model chaotic dynamical systems — accepted at **AGU Fall Meeting 2025** in New Orlenas, Lousiana.
 - **Time-Series Forecasting Tool**: Built a full LSTM pipeline to forecast NCAA Track & Field performance using scraped and normalized real-world data  
-- **Simulation Tools**: Interested in modeling physical systems and building interpretable representations for stochastic behavior  
+- **Computer Vision Research**: Developing an ML Pipeline in order to build a comprehensive database for data centers in the U.S.
 
 ---
 
@@ -30,7 +30,9 @@
 ## 📈 Stats, But Not Just the GitHub Kind
 
 - 📜 Published ML research at a national science conference  
-- 🏃‍♂️ Collegiate Track and Field athlete  
+- 🏃‍♂️ Collegiate Track and Field athlete
+- Polsky Undergraduate Research Scholar
+- Incoming Application Development / Rate Optimization Software Engineer Intern at [Liberty Mutual, State Farm]
 
 ---
 
@@ -39,6 +41,6 @@
 - Distributed systems for ML infra  
 - Simulation modeling and synthetic data generation  
 - Reinforcement learning + control theory  
-- Privacy and interpretability in real-world ML  
+- Privacy and interpretability in real-world ML
 
 ---
