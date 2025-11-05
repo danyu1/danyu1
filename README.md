@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Danny A. Hernandez
 
 Incoming Software Engineer at Liberty Mutual Insurance
+
 🎓 **BS/MS Computer Science @ University of Chicago**  
 🧠 Interests: ML/AI, Systems, Simulation, Data Infra  
 📬 Email: danielhernandez@uchicago.edu | [📎 Resume (by request)]
