@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Danny A. Hernandez
 
-Incoming Software Engineer at Liberty Mutual Insurance
+## Incoming Software Engineer at Liberty Mutual Insurance - Application Development and Rate Optimization Team
 
 🎓 **BS/MS Computer Science @ University of Chicago**  
 🧠 Interests: ML/AI, Systems, Simulation, Data Infra  
@@ -34,7 +34,6 @@ Incoming Software Engineer at Liberty Mutual Insurance
 - 📜 Published ML research at a national science conference  
 - 🏃‍♂️ Collegiate Track and Field athlete
 - Polsky Undergraduate Research Scholar
-- Incoming Application Development / Rate Optimization Software Engineer Intern at [Liberty Mutual, State Farm]
 
 ---
 
