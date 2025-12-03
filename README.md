@@ -12,7 +12,7 @@
 
 - **Probabilistic ML Research**: Using **Resnet-Inspired Conditional Variational Autoencoders** to model chaotic dynamical systems — accepted at **AGU Fall Meeting 2025** in New Orlenas, Lousiana.
 - **Time-Series Forecasting Tool**: Built a full LSTM pipeline to forecast NCAA Track & Field performance using scraped and normalized real-world data  
-- **Computer Vision Research**: Developing an ML Pipeline in order to build a comprehensive database for data centers in the U.S.
+- **Relay Trader**: Comprehensive backtester for trading strategies targeted at beginners.
 
 ---
 
