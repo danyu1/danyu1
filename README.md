@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Danny A. Hernandez
+# Hi
 
 ## Incoming Software Engineer at Liberty Mutual Insurance - Application Development and Rate Optimization Team
 
-🎓 **BS/MS Computer Science @ University of Chicago**  
-🧠 Interests: ML/AI, Systems, Simulation, Data Infra  
-📬 Email: danielhernandez@uchicago.edu | [📎 Resume (by request)]
+ **BS/MS Computer Science @ University of Chicago**  
+ Interests: ML/AI, Systems, Simulation, Data Infra  
+ Email: danielhernandez@uchicago.edu | [📎 Resume (by request)]
 
 ---
 
-## 🛠️ What I'm Working On
+##  What I'm Working On
 
 - **Probabilistic ML Research**: Using **Resnet-Inspired Conditional Variational Autoencoders** to model chaotic dynamical systems — accepted at **AGU Fall Meeting 2025** in New Orlenas, Lousiana.
 - **Time-Series Forecasting Tool**: Built a full LSTM pipeline to forecast NCAA Track & Field performance using scraped and normalized real-world data  
@@ -29,19 +29,19 @@
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=openjdk)
 ---
 
-## 📈 Stats, But Not Just the GitHub Kind
+## 📈 Stats
 
-- 📜 Published ML research at a national science conference  
-- 🏃‍♂️ Collegiate Track and Field athlete
+-  Published ML research at AGU
+-  Collegiate Track and Field athlete
 - Polsky Undergraduate Research Scholar
 
 ---
 
-## 🌱 Currently Exploring
+##  Currently Exploring
 
 - Distributed systems for ML infra  
 - Simulation modeling and synthetic data generation  
 - Reinforcement learning + control theory  
-- Privacy and interpretability in real-world ML
+- Opportunisitc Credit Modeling
 
 ---
