@@ -34,6 +34,7 @@
 -  Published ML research at AGU
 -  Collegiate Track and Field athlete
 - Polsky Undergraduate Research Scholar
+- Quad Undergraduate Scholar
 
 ---
 
