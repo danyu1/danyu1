@@ -1,9 +1,7 @@
-# Hi!
 
 ## Incoming Software Engineer at Liberty Mutual Insurance - Application Development and Rate Optimization Team
 
  **BS/MS Computer Science @ University of Chicago**  
- Interests: ML/AI, Systems, Simulation, Data Infra  
  Email: danielhernandez@uchicago.edu | [📎 Resume (by request)]
 
 ---
@@ -12,11 +10,11 @@
 
 - **Probabilistic ML Research**: Using **Resnet-Inspired Conditional Variational Autoencoders** to model chaotic dynamical systems — accepted at **AGU Fall Meeting 2025** in New Orlenas, Lousiana.
 - **Time-Series Forecasting Tool**: Built a full LSTM pipeline to forecast NCAA Track & Field performance using scraped and normalized real-world data  
-- **Relay Trader**: Comprehensive backtester for trading strategies targeted at beginners.
+- **Relay Trader**: Comprehensive backtester for retail trading strategies targeted at beginners.
 
 ---
 
-## 🧰 Languages & Tools
+## Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-black?style=flat&logo=c)
@@ -29,20 +27,11 @@
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=openjdk)
 ---
 
-## 📈 Stats
+## Stats
 
 -  Published ML research at AGU
 -  Collegiate Track and Field athlete
 - Polsky Undergraduate Research Scholar
 - Quad Undergraduate Scholar
-
----
-
-##  Currently Exploring
-
-- Distributed systems for ML infra  
-- Simulation modeling and synthetic data generation  
-- Reinforcement learning + control theory  
-- Opportunisitc Credit Modeling
 
 ---
