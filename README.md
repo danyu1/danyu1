@@ -26,12 +26,3 @@
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=openjdk)
 ---
-
-## Stats
-
--  Published ML research at AGU
--  Collegiate Track and Field athlete
-- Polsky Undergraduate Research Scholar
-- Quad Undergraduate Scholar
-
----
