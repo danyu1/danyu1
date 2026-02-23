@@ -1,5 +1,5 @@
 
-## Incoming Software Engineer at Liberty Mutual Insurance - Application Development and Rate Optimization Team
+## Incoming Software Engineer at Liberty Mutual Insurance - Cloud Technologies and Rate Optimization Team
 
  **BS/MS Computer Science @ University of Chicago**  
  Email: danielhernandez@uchicago.edu | [📎 Resume (by request)]
