@@ -9,8 +9,9 @@
 ##  What I'm Working On
 
 - **Probabilistic ML Research**: Using **Resnet-Inspired Conditional Variational Autoencoders** to model chaotic dynamical systems — accepted at **AGU Fall Meeting 2025** in New Orlenas, Lousiana.
-- **Time-Series Forecasting Tool**: Built a full LSTM pipeline to forecast NCAA Track & Field performance using scraped and normalized real-world data  
-- **Relay Trader**: Comprehensive backtester for retail trading strategies targeted at beginners.
+- **Bridgewater 2027 Metaculus Forecasting Competition**: Ranked 10th out of 900+ undergraduate students in forecasting competition using quantitative models and fundamental research/analysis
+- **Oracle Trading**: currently trading on prediction markets as part of UChicago club
+- **TRACE**: market analytics and trend analyzer platform with active users
 
 ---
 
